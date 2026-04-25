@@ -173,12 +173,13 @@ void CMFCApplication1Dlg::OnBnClickedButton2()
 void CMFCApplication1Dlg::OnBnClickedButton5()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
-	AfxMessageBox(_T("OnBnClickedButton5"));
+	// A-0
+	// B-0
 }
 
 void CMFCApplication1Dlg::OnBnClickedButton6()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
 	// A-1
-	// B-0
+	// B-2
 }
