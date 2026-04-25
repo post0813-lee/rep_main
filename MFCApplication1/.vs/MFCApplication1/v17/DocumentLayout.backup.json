@@ -14,23 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MFCApplication1.rc - IDD_MFCAPPLICATION1_DIALOG - Dialog",
               "DocumentMoniker": "C:\\Users\\post\\Documents\\rep_main\\MFCApplication1\\MFCApplication1\\MFCApplication1.rc",
               "RelativeDocumentMoniker": "MFCApplication1\\MFCApplication1.rc",
-              "ToolTip": "C:\\Users\\post\\Documents\\rep_main\\MFCApplication1\\MFCApplication1\\MFCApplication1.rc - IDD_MFCAPPLICATION1_DIALOG - Dialog*",
-              "RelativeToolTip": "MFCApplication1\\MFCApplication1.rc - IDD_MFCAPPLICATION1_DIALOG - Dialog*",
+              "ToolTip": "C:\\Users\\post\\Documents\\rep_main\\MFCApplication1\\MFCApplication1\\MFCApplication1.rc - IDD_MFCAPPLICATION1_DIALOG - Dialog",
+              "RelativeToolTip": "MFCApplication1\\MFCApplication1.rc - IDD_MFCAPPLICATION1_DIALOG - Dialog",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2026-04-24T14:56:30.949Z",
               "EditorCaption": " - IDD_MFCAPPLICATION1_DIALOG - Dialog"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
