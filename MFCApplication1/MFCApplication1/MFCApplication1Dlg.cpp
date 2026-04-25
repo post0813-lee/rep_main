@@ -179,9 +179,6 @@ void CMFCApplication1Dlg::OnBnClickedButton5()
 void CMFCApplication1Dlg::OnBnClickedButton6()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
-<<<<<<< Updated upstream
-	AfxMessageBox(_T("OnBnClickedButton8845HS"));
-=======
-	AfxMessageBox(_T("OnBnClickedButton12700"));
->>>>>>> Stashed changes
+	AfxMessageBox(_T("OnBnClickedButton_8845HS"));
+
 }
