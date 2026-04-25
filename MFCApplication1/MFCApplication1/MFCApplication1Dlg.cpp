@@ -188,15 +188,7 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 	// s
 	// d
 	// d
-	// s
-	// B-4
-	// B-4
-	// B-4
-	// B-4
-	// B-4
-	// B-4
-	// B-4 
-	// B-4
+	// 
 
 	c
 		xc
