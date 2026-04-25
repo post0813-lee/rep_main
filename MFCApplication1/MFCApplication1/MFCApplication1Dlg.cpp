@@ -182,10 +182,6 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 	// KME_5678_8
 }
 
-// HME_1234_13_0855
-
-
-
-
-// KME_5678_13_0820
+// 충돌
+// 미충돌
 
