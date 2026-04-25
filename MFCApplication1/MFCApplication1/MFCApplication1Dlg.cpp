@@ -203,4 +203,20 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 		x
 		xc
 
+		d
+		d
+		d
+		s
+		ds
+		ds
+		d
+		d
+
+		sd
+		s
+		ds
+		d
+		d
+		s
+		d
 }
