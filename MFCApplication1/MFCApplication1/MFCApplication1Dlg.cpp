@@ -189,5 +189,5 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 
 // 
 // 
-// 미충돌 케이스 : 이상규
+// 미충돌 케이스 : 이석진
 
