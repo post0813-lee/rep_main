@@ -183,6 +183,6 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 }
 
 // 충돌
-// 미충돌 이상규
+// 미충돌 이상규 1
 // 미충돌 이석진
 
