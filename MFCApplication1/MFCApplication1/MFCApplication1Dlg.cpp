@@ -187,5 +187,5 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 
 // 
 // 
-// 미충돌 이석진 2
+// 미충돌 이석진 3
 
