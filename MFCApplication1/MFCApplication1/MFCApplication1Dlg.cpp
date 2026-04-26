@@ -185,7 +185,7 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 충돌 케이스 : 
 // 
 // 
-// 미충돌 케이스 : 이상규 1
+// 미충돌 케이스 : 이상규 2
 // 
 // 
 // 
