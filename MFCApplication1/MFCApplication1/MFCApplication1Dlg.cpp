@@ -182,4 +182,4 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 	// KME_5678_8
 }
 
-// 충돌 케이스 : 이석진 1234123422222333ggggggvvvvvvvvvvvvv
+// 충돌 케이스 : 이석진 678
