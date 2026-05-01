@@ -188,3 +188,4 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 
 
 // 버전 1
+// 버전 2
