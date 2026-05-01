@@ -191,3 +191,4 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 버전 2
 // 버전 3
 // 버전 4
+// 버전 5
