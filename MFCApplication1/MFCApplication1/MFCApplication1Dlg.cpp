@@ -196,3 +196,9 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 버전 10 - 이석진
 // 버전 11 - dev-EU
 // 버전 12 - dev-EU
+// 버전 6 - 이석진
+// 버전 7 - 이석진
+// 버전 9 - 이석진
+// 버전 10 - 이석진
+// 버전 11 - dev-EU
+// 버전 12 - dev-EU
