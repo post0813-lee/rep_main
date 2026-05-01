@@ -175,11 +175,13 @@ void CMFCApplication1Dlg::OnBnClickedButton5()
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
 	// HME_1234_8
 }
-hhhhh
+
 void CMFCApplication1Dlg::OnBnClickedButton6()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
 	// KME_5678_8
 }
 
-// 충돌 케이스 : 이석진 1234123422222333ggggggvvvvvvvvvvvvv
+// 충돌 케이스 : 이석진 678933333224
+
+// 이석진 0916
