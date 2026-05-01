@@ -192,3 +192,4 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 버전 3
 // 버전 4
 // 버전 5
+// 버전 6 - 이상규
