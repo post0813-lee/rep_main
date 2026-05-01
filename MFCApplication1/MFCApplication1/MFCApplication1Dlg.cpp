@@ -184,4 +184,4 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 
 // 충돌 케이스 : 이석진 678933333224
 
-// 이석진 0916
+// 이석진 0916 0927
