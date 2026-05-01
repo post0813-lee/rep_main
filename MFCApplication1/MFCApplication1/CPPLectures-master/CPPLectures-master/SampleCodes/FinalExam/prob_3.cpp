@@ -7,9 +7,9 @@
 #include <string>
 #include <set>
 #include <algorithm>
-
+wqqwqwqw
 using namespace std;
-gffgfg
+wqwqwqwwq
 int main(int argc, char const *argv[])
 {
 	string word;
