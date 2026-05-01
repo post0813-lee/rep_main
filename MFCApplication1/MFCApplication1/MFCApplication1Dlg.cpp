@@ -187,4 +187,4 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 이석진 0916 0927
 
 
-// A
+// 버전 1
