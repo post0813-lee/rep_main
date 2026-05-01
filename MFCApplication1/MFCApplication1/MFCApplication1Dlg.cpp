@@ -183,3 +183,6 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 }
 
 // 충돌 케이스 : 이석진 1234123422222333ggggggvvvvvvvvvvvvv
+
+
+// 버전 1
