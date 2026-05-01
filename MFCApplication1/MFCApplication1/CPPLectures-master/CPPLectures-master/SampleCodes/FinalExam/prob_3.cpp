@@ -9,7 +9,7 @@
 #include <algorithm>
 
 using namespace std;
-
+gffgfg
 int main(int argc, char const *argv[])
 {
 	string word;
