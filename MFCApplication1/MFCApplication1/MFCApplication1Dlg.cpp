@@ -192,4 +192,5 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 버전 5
 // 버전 6 - 이석진
 // 버전 7 - 이석진
-// 버전 8 - 이상규
+// 버전 9 - 이석진
+// 버전 10 - 이석진
