@@ -194,3 +194,17 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 버전 7 - 이석진
 // 버전 9 - 이석진
 // 버전 10 - 이석진
+// 버전 11 - dev-EU
+// 버전 12 - dev-EU
+// 버전 13 - dev-EU
+// 버전 14 - dev-EU
+// 버전 15 - dev-EU
+// 버전 16 - dev-EU
+// 버전 17 - dev-EU
+// 버전 18 - dev-EU
+// 버전 19 - dev-EU
+
+// 버전 20 - HME_5678
+// 버전 21 - HME_5678-EU
+// 버전 22 - HME_5678
+// 버전 23 - HME_5678-EU
