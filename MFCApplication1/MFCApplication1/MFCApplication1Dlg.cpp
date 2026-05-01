@@ -173,11 +173,24 @@ void CMFCApplication1Dlg::OnBnClickedButton2()
 void CMFCApplication1Dlg::OnBnClickedButton5()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
-	AfxMessageBox(_T("OnBnClickedButton5"));
+	// HME_1234_8
 }
 
 void CMFCApplication1Dlg::OnBnClickedButton6()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
-	// B - 2
+	// KME_5678_8
 }
+
+// 충돌 케이스 : 이석진 1234123422222333ggggggvvvvvvvvvvvvv
+
+
+// 버전 1
+// 버전 2
+// 버전 3
+// 버전 4
+// 버전 5
+// 버전 6 - 이석진
+// 버전 7 - 이석진
+// 버전 9 - 이석진
+// 버전 10 - 이석진
