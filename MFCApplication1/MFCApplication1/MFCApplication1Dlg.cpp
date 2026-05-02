@@ -174,7 +174,7 @@ fdfdffd11
 void CMFCApplication1Dlg::OnBnClickedButton5()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
-	// HME_1234_8
+	// HME_1234_81111
 }
 
 void CMFCApplication1Dlg::OnBnClickedButton6()
@@ -197,13 +197,7 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 버전 10 - 이석진
 // 버전 11 - dev-EU
 // 버전 12 - dev-EU
-// 버전 13 - dev-EU
-// 버전 14 - dev-EU
-// 버전 15 - dev-EU
-// 버전 16 - dev-EU
-// 버전 17 - dev-EU
-// 버전 18 - dev-EU
-// 버전 19 - dev-EU
+
 
 // 버전 20 - HME_5678
 // 버전 21 - HME_5678-EU
