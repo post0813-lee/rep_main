@@ -176,7 +176,7 @@ void CMFCApplication1Dlg::OnBnClickedButton5()
 	// HME_1234_8
 	int d = 100;
 
-	dd = 100;
+	d = 100;
 }
 
 void CMFCApplication1Dlg::OnBnClickedButton6()
@@ -213,3 +213,7 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 버전 23 - HME_5678-EU
 
 // 버전 24 - HME_1234-1
+// 버전 25 - HME_5678-EU
+
+
+// 버전 26 - HME_5678
