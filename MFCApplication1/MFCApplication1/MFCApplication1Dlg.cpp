@@ -218,3 +218,5 @@ void CMFCApplication1Dlg::OnBnClickedButton6() dfdfdf
 
 // 버전 26 - HME_5678
 // 버전 27 - HME_5678
+
+// 버전 28
