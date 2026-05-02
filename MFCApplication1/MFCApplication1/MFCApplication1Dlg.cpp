@@ -169,8 +169,8 @@ void CMFCApplication1Dlg::OnBnClickedButton2()
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
 	AfxMessageBox(_T("OnBnClickedButton2"));
 }
-f
-void CMFCApplication1Dlg::OnBnClickedButton5() fddfdfdfdf
+
+void CMFCApplication1Dlg::OnBnClickedButton5()
 {
 	// TODO: 여기에 컨트롤 알림 처리기 코드를 추가합니다.
 	// HME_1234_8
@@ -220,3 +220,5 @@ void CMFCApplication1Dlg::OnBnClickedButton6()
 // 버전 27 - HME_5678
 
 // 버전 28
+
+// 버전 26 - HME_1234 
