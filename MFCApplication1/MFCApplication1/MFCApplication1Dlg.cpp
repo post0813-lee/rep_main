@@ -176,7 +176,7 @@ void CMFCApplication1Dlg::OnBnClickedButton5()
 	// HME_1234_8
 	int d = 100;
 
-	dd = 100;
+	d = 100;
 }
 
 void CMFCApplication1Dlg::OnBnClickedButton6()
