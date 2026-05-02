@@ -105,4 +105,4 @@ BOOL CMFCApplication1App::InitInstance()
 	return FALSE;
 }
 
-// 버전 24 - HME_1234
+// 버전 24 - HME_1234 - 6aa
